@@ -133,18 +133,6 @@
           "displayName": "Netherite Boots",
           "shouldIgnore": false
         }
-      },
-      "OFFHAND": {
-        "minecraft:shield": {
-          "displayName": "Shield",
-          "shouldIgnore": false
-        }
-      },
-      "MAINHAND": {
-        "minecraft:acacia_log": {
-          "displayName": "Acacia Log",
-          "shouldIgnore": false
-        }
       }
     }
   }
