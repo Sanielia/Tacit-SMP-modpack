@@ -50,7 +50,7 @@ highContrast:false
 narratorHotkey:true
 resourcePacks:["vanilla","mod_resources","Fusion Connected Glass v1.0.1 for Minecraft 1.20-1.21.8.zip"]
 incompatibleResourcePacks:[]
-lastServer:no-name-smp.sanielia.dev
+lastServer:test.tacit-smp.sanielia.dev
 lang:en_us
 chatVisibility:0
 chatOpacity:1.0
@@ -157,6 +157,7 @@ key_iris.keybind.wireframe:key.keyboard.unknown
 key_simulated.keyinfo.rotate_mode:key.keyboard.unknown
 key_simulated.keyinfo.scroll_up:key.keyboard.unknown
 key_simulated.keyinfo.scroll_down:key.keyboard.unknown
+key_key.paraglider.paragliderSettings:key.keyboard.p:CONTROL
 key_key.corpse.death_history:key.keyboard.d:SHIFT
 key_key.curios.open.desc:key.keyboard.g
 key_key.next_image:key.keyboard.down
