@@ -6,3 +6,5 @@
 !mods/
 !mods/**
 !options.txt
+
+mods/.index/**
