@@ -35,7 +35,7 @@ natoAlphabetNamesSuffixLength = 3
 #Please use this only if necessary to avoid excessive API usage.
 fetchUnusedPlayerNames = false
 #If true, only admins will be able to change nicknames.
-adminsOnly = true
+adminsOnly = false
 #If true, forces clients to have Simple Nicknames installed. Without the mod, clients will only see nicknames in chat.
 forceClientMod = true
 #If forceClientMod is set to false, players will receive this message when they join without Simple Nicknames.
